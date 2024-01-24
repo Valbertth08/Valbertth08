@@ -20,5 +20,5 @@ Atualmente estou no 7 período do curso de Sistemas de Informação e tenho me e
 
 ## 	✉️ Entre em Contato comigo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/valbertth-alves-b5209425b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valbertth-alves-b5209425b/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Valbertth)
