@@ -2,7 +2,7 @@
 Atualmente estou no 7 período do curso de Sistemas de Informação e tenho me empenhado na programação com o intuito de desenvolver as habilidades necessarias para conseguir minha primeira vaga como programador back-end.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valbertth08&show_icons=true&theme=dark)
+![Valbertth Alves' GitHub stats](https://github-readme-stats.vercel.app/api?username=valbertth08&show_icons=true&theme=dark)
 
 
 ## 🔧Tecnologias 
